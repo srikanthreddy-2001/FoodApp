@@ -1,0 +1,12 @@
+.container{
+    text-align: left;
+}
+
+.listItems:hover{
+    cursor:pointer
+}
+
+.listItems a{
+    color: black;
+    text-decoration: none;
+}

@@ -1,0 +1,14 @@
+.imageContainer img{
+    width: 40%;
+    border-radius: 8px;
+}
+
+.imageContainer p{
+    margin-top: 0;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.container{
+    margin: 0 auto;
+}
